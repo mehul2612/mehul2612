@@ -3,12 +3,15 @@
 
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umang-bariya&label=Profile%20views&color=0e75b6&style=flat" alt="umang-bariya" /> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehul2612&label=Profile%20views&color=0e75b6&style=flat" alt="mehul2612" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehul2612" alt="mehul2612" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🔭 I’m currently working on **Python project**
+
+- 🌱 I’m currently learning **Reactjs,Nodejs.**
+
+- 👯 I’m looking to collaborate on **open source**
+
+- 📫 How to reach me **chauhanmehul7647@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
